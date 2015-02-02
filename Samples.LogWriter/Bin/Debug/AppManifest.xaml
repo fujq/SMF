@@ -1,0 +1,14 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Microsoft.SilverlightMediaFramework.Samples.LogWriter" EntryPointType="Microsoft.SilverlightMediaFramework.Samples.LogWriter.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Microsoft.SilverlightMediaFramework.Samples.LogWriter" Source="Microsoft.SilverlightMediaFramework.Samples.LogWriter.dll" />
+    <AssemblyPart x:Name="Microsoft.SilverlightMediaFramework.Core" Source="Microsoft.SilverlightMediaFramework.Core.dll" />
+    <AssemblyPart x:Name="Microsoft.SilverlightMediaFramework.Plugins" Source="Microsoft.SilverlightMediaFramework.Plugins.dll" />
+    <AssemblyPart x:Name="Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming" Source="Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming.dll" />
+    <AssemblyPart x:Name="Microsoft.SilverlightMediaFramework.Utilities" Source="Microsoft.SilverlightMediaFramework.Utilities.dll" />
+    <AssemblyPart x:Name="Microsoft.Web.Media.SmoothStreaming" Source="Microsoft.Web.Media.SmoothStreaming.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition" Source="System.ComponentModel.Composition.dll" />
+    <AssemblyPart x:Name="System.Xml.Linq" Source="System.Xml.Linq.dll" />
+    <AssemblyPart x:Name="System.Xml.Serialization" Source="System.Xml.Serialization.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition.Initialization" Source="System.ComponentModel.Composition.Initialization.dll" />
+  </Deployment.Parts>
+</Deployment>

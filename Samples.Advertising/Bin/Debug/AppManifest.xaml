@@ -1,0 +1,17 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Microsoft.SilverlightMediaFramework.Samples.Advertising" EntryPointType="Samples.Advertising.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Microsoft.SilverlightMediaFramework.Samples.Advertising" Source="Microsoft.SilverlightMediaFramework.Samples.Advertising.dll" />
+    <AssemblyPart x:Name="Microsoft.SilverlightMediaFramework.Core" Source="Microsoft.SilverlightMediaFramework.Core.dll" />
+    <AssemblyPart x:Name="Microsoft.SilverlightMediaFramework.Plugins.Advertising" Source="Microsoft.SilverlightMediaFramework.Plugins.Advertising.dll" />
+    <AssemblyPart x:Name="Microsoft.SilverlightMediaFramework.Plugins.Advertising.Xap" Source="Microsoft.SilverlightMediaFramework.Plugins.Advertising.Xap.dll" />
+    <AssemblyPart x:Name="Microsoft.SilverlightMediaFramework.Plugins" Source="Microsoft.SilverlightMediaFramework.Plugins.dll" />
+    <AssemblyPart x:Name="Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming" Source="Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming.dll" />
+    <AssemblyPart x:Name="Microsoft.SilverlightMediaFramework.Utilities" Source="Microsoft.SilverlightMediaFramework.Utilities.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition" Source="System.ComponentModel.Composition.dll" />
+    <AssemblyPart x:Name="System.Xml.Linq" Source="System.Xml.Linq.dll" />
+    <AssemblyPart x:Name="System.Xml.Serialization" Source="System.Xml.Serialization.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition.Initialization" Source="System.ComponentModel.Composition.Initialization.dll" />
+    <AssemblyPart x:Name="Microsoft.CSharp" Source="Microsoft.CSharp.dll" />
+    <AssemblyPart x:Name="Microsoft.Web.Media.SmoothStreaming" Source="Microsoft.Web.Media.SmoothStreaming.dll" />
+  </Deployment.Parts>
+</Deployment>

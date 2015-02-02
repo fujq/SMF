@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\HealthMonitor\Microsoft.HealthMonitor.Web\bin\HealthMonitor.Web.dll.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\HealthMonitor\Microsoft.HealthMonitor.Web\bin\HealthMonitor.Web.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\HealthMonitor\Microsoft.HealthMonitor.Web\bin\HealthMonitor.Web.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\HealthMonitor\Microsoft.HealthMonitor.Web\obj\Debug\HealthMonitor.Web.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\HealthMonitor\Microsoft.HealthMonitor.Web\obj\Debug\HealthMonitor.Web.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\HealthMonitor\Microsoft.HealthMonitor.Web\obj\Debug\Microsoft.HealthMonitor.Web.csprojResolveAssemblyReference.cache

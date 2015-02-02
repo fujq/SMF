@@ -1,0 +1,8 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\bin\Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming.XML
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\bin\Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\bin\Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Plugins.SmoothStreaming\obj\Debug\Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Plugins.SmoothStreaming\obj\Debug\Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming.Resources.SmoothStreamingResources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Plugins.SmoothStreaming\obj\Debug\Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Plugins.SmoothStreaming\obj\Debug\Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Plugins.SmoothStreaming\obj\Debug\Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming.pdb

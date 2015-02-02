@@ -1,0 +1,2 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\SmoothStreamingMediaPlayerDemo\obj\Debug\SmoothStreamingMediaPlayerDemo.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\SmoothStreamingMediaPlayerDemo\obj\Debug\App.g.cs

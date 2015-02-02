@@ -1,0 +1,10 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.SilverlightAd\Bin\Debug\Microsoft.SilverlightMediaFramework.Samples.SilverlightAd.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.SilverlightAd\Bin\Debug\Microsoft.SilverlightMediaFramework.Samples.SilverlightAd.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.SilverlightAd\Bin\Debug\AppManifest.xaml
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.SilverlightAd\Bin\Debug\Samples.SilverlightAd.xap
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.SilverlightAd\Bin\Debug\Samples.SilverlightAdTestPage.html
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.SilverlightAd\obj\Debug\MainPage.g.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.SilverlightAd\obj\Debug\Microsoft.SilverlightMediaFramework.Samples.SilverlightAd.g.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.SilverlightAd\obj\Debug\Microsoft.SilverlightMediaFramework.Samples.SilverlightAd.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.SilverlightAd\obj\Debug\Microsoft.SilverlightMediaFramework.Samples.SilverlightAd.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.SilverlightAd\obj\Debug\XapCacheFile.xml

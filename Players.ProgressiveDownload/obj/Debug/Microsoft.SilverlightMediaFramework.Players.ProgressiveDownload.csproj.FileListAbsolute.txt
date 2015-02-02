@@ -1,0 +1,11 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\bin\Microsoft.SilverlightMediaFramework.Players.ProgressiveDownload.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\bin\Microsoft.SilverlightMediaFramework.Players.ProgressiveDownload.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\bin\AppManifest.xaml
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\bin\ProgressiveDownloadPlayer.xap
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\bin\Microsoft.SilverlightMediaFramework.Players.ProgressiveDownloadTestPage.html
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Players.ProgressiveDownload\obj\Debug\Microsoft.SilverlightMediaFramework.Players.ProgressiveDownload.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Players.ProgressiveDownload\obj\Debug\App.g.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Players.ProgressiveDownload\obj\Debug\Microsoft.SilverlightMediaFramework.Players.ProgressiveDownload.g.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Players.ProgressiveDownload\obj\Debug\Microsoft.SilverlightMediaFramework.Players.ProgressiveDownload.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Players.ProgressiveDownload\obj\Debug\Microsoft.SilverlightMediaFramework.Players.ProgressiveDownload.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Players.ProgressiveDownload\obj\Debug\XapCacheFile.xml

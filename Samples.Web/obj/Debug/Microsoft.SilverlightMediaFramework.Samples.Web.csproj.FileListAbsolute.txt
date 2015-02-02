@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.Web\bin\Microsoft.SilverlightMediaFramework.Samples.Web.dll.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.Web\bin\Microsoft.SilverlightMediaFramework.Samples.Web.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.Web\bin\Microsoft.SilverlightMediaFramework.Samples.Web.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.Web\obj\Debug\Microsoft.SilverlightMediaFramework.Samples.Web.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.Web\obj\Debug\Microsoft.SilverlightMediaFramework.Samples.Web.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\microsoft-smf-src-3\Samples.Web\obj\Debug\Microsoft.SilverlightMediaFramework.Samples.Web.csprojResolveAssemblyReference.cache
